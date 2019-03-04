@@ -5,6 +5,9 @@ import java.io.*;
 public class Main {
 
 	public static void main(String[] args) {
+		
+		//Balineanu Claudia
+		
 		try {
 		Name n = new Name();  
 		String str = "";		

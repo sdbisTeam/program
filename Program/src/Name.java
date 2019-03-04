@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class Name {
-
+	//Balineanu Claudia
 	String name;
 
 	public String getName() {
